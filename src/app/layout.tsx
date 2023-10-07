@@ -21,7 +21,7 @@ export const metadata: Metadata = {
     type: "website",
     images: [
       {
-        url: "https://cairesdev.vercel.app/og-image.svg",
+        url: "https://cairesdev.vercel.app/og-image.png",
       },
     ],
   },

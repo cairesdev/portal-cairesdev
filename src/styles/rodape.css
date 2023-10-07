@@ -1,0 +1,13 @@
+.rodape {
+  display: flex;
+  flex-direction: column;
+  justify-content: baseline;
+  align-items: center;
+  text-align: center;
+
+  padding: 10px;
+  background: var(--pursian-blue);
+}
+.rodape h2 {
+  padding: 40px;
+}

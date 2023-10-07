@@ -15,13 +15,13 @@ export const metadata: Metadata = {
   openGraph: {
     title: "João Caires | Full Stack Developer",
     description: "Meu portfolio website,  construido com Next.js",
-    url: "https://cairesdev.cloud",
+    url: "https://cairesdev.vercel.app",
     siteName: "João Caires | Full Stack Developer",
     locale: "pt_BR",
     type: "website",
     images: [
       {
-        url: "https://cairesdev.cloud/og-image.svg",
+        url: "https://cairesdev.vercel.app/og-image.svg",
       },
     ],
   },

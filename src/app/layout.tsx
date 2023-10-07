@@ -11,6 +11,7 @@ export const metadata: Metadata = {
   icons: {
     icon: "/favicon.ico",
   },
+  //Open graphics
   openGraph: {
     title: "João Caires | Full Stack Developer",
     description: "Meu portfolio website,  construido com Next.js",
